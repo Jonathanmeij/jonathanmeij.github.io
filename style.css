@@ -140,7 +140,7 @@ ul > li {
     color: #aa9b35;
 }
 
-@media only screen and (min-width: 800px) {
+@media only screen and (min-width: 800px) and (min-height: 600px) {
     nav {
         padding: 0;
         position: fixed;
